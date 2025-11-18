@@ -255,8 +255,6 @@ This project is part of the Girls Human Rights Hub initiative focused on educati
 
 ## 👥 Credits
 
-**Authors**: Chinazaekper, Rukyat, Buonny Ibrahim
-
 **Design Inspired By**: 
 - UN Women SDG 5 (Gender Equality)
 - UN SDG 16 (Peace, Justice, and Strong Institutions)
