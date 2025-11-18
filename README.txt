@@ -1,9 +1,5 @@
 SafeHer – Resources & Support Directory
 
-Developers: Abimbola (Lead – Resources Page), Favour, Namakau
-Group: CodeCrafters
-Date: 2025
-
 Overview
 
 The Resources & Support Directory page is designed to help girls and women in Nigeria quickly find verified support services during situations involving domestic violence, sexual assault, mental health crises, or human rights violations.
@@ -152,5 +148,6 @@ Ensuring the page is fully responsive across mobile and desktop
 Integrating the team-provided Navbar, Footer, and Google Translate component
 
 Adjusting spacing, alignment, and consistency after integration
+
 
 The combined efforts ensured that the page is visually consistent with the project’s design system, responsive, accessible, and easy for users to navigate during emergencies.
