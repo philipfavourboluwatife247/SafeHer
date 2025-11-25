@@ -117,6 +117,12 @@ Women Techsters Bootcamp 2025
 
 ---
 
+## 👩 Author
+
+**Philip Favour Boluwatife**
+
+---
+
 ## 📄 License
 
 Open-source and free for educational use.
