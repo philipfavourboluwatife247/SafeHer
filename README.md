@@ -4,7 +4,7 @@
 > **“Every woman deserves safety. Every girl deserves a voice. Every story deserves to be heard.”**
 
 ![CodeCrafter Homepage Screenshot](./images/home1.png)
-![Visit SafeHer Website](https://safeher-ten.vercel.app/)
+[Visit SafeHer Website](https://safeher-ten.vercel.app/)
 ---
 
 ## 🌍 Overview
